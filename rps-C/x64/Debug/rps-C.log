@@ -1,0 +1,5 @@
+﻿  rps-C.cpp
+C:\C_Projects\rock-paper-scissor\rps-C\rps-C.cpp(36,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\C_Projects\rock-paper-scissor\rps-C\rps-C.cpp(46,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C_Projects\rock-paper-scissor\rps-C\rps-C.cpp(111,1): warning C4715: 'game': not all control paths return a value
+  rps-C.vcxproj -> C:\C_Projects\rock-paper-scissor\rps-C\x64\Debug\rps-C.exe
